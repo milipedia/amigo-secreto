@@ -1,36 +1,45 @@
-# Amigo Secreto
+# 🎁 Sorteador de Amigo Secreto
 
-Um simples e divertido site para realizar sorteios de amigo secreto.  
-Você insere os nomes dos participantes, e o sistema sorteia um nome aleatório para você.
+Um site simples e intuitivo para realizar sorteios de amigo secreto, desenvolvido como parte do programa **ONE - Oracle Next Education**.  
+O objetivo é permitir que os usuários insiram nomes e realizem um sorteio aleatório de forma prática e divertida.
 
----
-
-## Funcionalidades
-
-- Adicionar nomes à lista de participantes.
-- Exibir todos os nomes adicionados.
-- Sortear um nome aleatoriamente.
-- Validação para impedir nomes vazios.
-- Impede sorteio com menos de 2 participantes.
+🔗 **[Acesse o projeto online aqui](https://milipedia.github.io/amigo-secreto/)**
 
 ---
 
-## 📂 Estrutura do Projeto
-
-📁 amigo-secreto
-│── 📁 assets # Imagens e ícones
-│── 📄 index.html # Estrutura da página
-│── 📄 style.css # Estilos do site
-│── 📄 app.js # Lógica do sorteio
-│── 📄 README.md # Documentação do projeto
+## 📌 Funcionalidades
+- Adicionar participantes pelo nome.
+- Garantir que não haja nomes repetidos.
+- Realizar sorteio aleatório de forma justa.
+- Interface simples e amigável para uso rápido.
 
 ---
 
-## Tecnologias Utilizadas
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+## 🛠 Tecnologias utilizadas
+- **HTML5** – Estrutura do site.
+- **CSS3** – Estilização e layout responsivo.
+- **JavaScript (Vanilla)** – Lógica do sorteio e interatividade.
 
 ---
 
+## 🚀 Como executar localmente
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/milipedia/amigo-secreto.git
+2. Acesse a pasta do projeto:
+
+cd amigo-secreto
+
+
+Abra o arquivo index.html no navegador.
+
+Este projeto foi desenvolvido como parte do Desafio Amigo Secreto da trilha de JavaScript no programa ONE.
+O foco foi aplicar conceitos de:
+
+Manipulação do DOM
+
+Estruturas de repetição
+
+Funções e arrays
+
+Publicação de projetos no GitHub Pages
